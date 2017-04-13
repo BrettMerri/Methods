@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Misc\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Brett\Desktop\Projects\Misc\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Brett\Desktop\Projects\Misc\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Brett\Desktop\Projects\Misc\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Misc\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Brett\Desktop\Projects\Misc\Methods\Methods\obj\Debug\Methods.pdb
